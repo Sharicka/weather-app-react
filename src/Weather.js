@@ -66,14 +66,14 @@ export default function Weather() {
         </strong>{" "}
         and is{" "}
         <a
-          href="https://github.com/Sharicka/weather-app"
+          href="https://github.com/Sharicka/weather-app-react"
           target="_blank"
           rel="noreferrer"
         >
           open-sourced on Github
         </a>{" "}
         hosted on{" "}
-        <a href="https://fluffy-dolphin-a400ea.netlify.app/">Netlify</a>{" "}
+        <a href="https://enchanting-froyo-902228.netlify.app/">Netlify</a>{" "}
       </footer>
     </>
   );
