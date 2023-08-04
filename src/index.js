@@ -4,12 +4,13 @@ import "./App.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import Weather from "./Weather";
-
+import Footer from "./Footer";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
     <Weather />
+    <Footer />
   </React.StrictMode>
 );
 
